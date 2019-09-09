@@ -31,3 +31,13 @@
 
 en:
   hello: "Hello world"
+  success:
+    todo_item: Todo item successfully deleted
+    complete: Todo item is completed
+  failur:
+    todo_item: Todo item could not be deleted
+  new: New ToDo
+  delete: Delete
+  title:
+    complete: Mark as a complete
+  inform: Are you sure..?
